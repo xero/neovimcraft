@@ -427,6 +427,16 @@
         "lsp",
         "statusline"
       ]
+    },
+    {
+      "type": "github",
+      "username": "xero",
+      "repo": "miasma.nvim",
+      "tags": [
+        "plugin",
+        "colorscheme",
+        "treesitter-colorschemes"
+      ]
     }
   ]
 }
